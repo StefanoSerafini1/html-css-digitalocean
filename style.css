@@ -307,3 +307,25 @@ form p {
   font-size: 18px;
   color: #0069ff;
 }
+/* css del footer bottom */
+.ms_bottom-footer {
+  background-color: #010e28;
+}
+
+.ms_bottom-footer img {
+  display: block;
+  margin-bottom: 2%;
+}
+
+.ms_bottom-footer p {
+  color: grey;
+  margin: 0;
+}
+
+.ms_bottom-footer .ms_icons li {
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 2.5%;
+  margin-right: 2%;
+  margin-bottom: 3%;
+}
