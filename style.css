@@ -84,7 +84,7 @@ background-color: #f3f5f9;
 }
 .ms_navbar .ms_button {
   color: #0069ff;
-  font-size: 1.15em;
+  font-size: 35px;
   border: 0.5px solid #0069ff;
 }
 .ms_box .btn.btn-default:first-of-type {
@@ -98,7 +98,7 @@ background-color: #f3f5f9;
 /*css per il menu burger visione piccola */
 .ms_burger-menu {
   line-height: 60px;
-  font-size: 1.6em;
+  font-size: 50px;
 }
 .ms_burger-menu a {
   color: #0069ff;
@@ -112,14 +112,14 @@ background-color: #f3f5f9;
 }
 .ms_jumbotron h1 {
   font-weight: 700;
-  font-size: 3em;
+  font-size: 64px;
 }
 .ms_jumbotron h2 {
   margin-top: 10px;
 }
 .ms_jumbotron h3 {
   font-weight: 500;
-  font-size: 1.5em;
+  font-size: 20px;
 }
 
 
@@ -155,7 +155,7 @@ form p {
   margin-top: 7%;
 }
 .ms_partners h3 {
-  font-size: 1em;
+  font-size: 20px;
   margin-top: 0;
   margin-bottom: 25px;
 }
@@ -218,7 +218,7 @@ form p {
   margin-bottom: 3%;
 }
 .ms_chevron {
-  font-size: 2em;
+  font-size: 10px;
   margin: 0 2%;
 }
 .ms_chevron a {
@@ -302,7 +302,6 @@ form p {
   color: white;
   padding-bottom: 2%;
 }
-
 .ms_top-footer .ms_button {
   padding: 1%;
   font-size: 18px;
